@@ -12,7 +12,7 @@ const navLinks = [
 
 const socialLinks = [
   { icon: Github, href: 'https://github.com/CACAifemowsf', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://www.linkedin.com/in/carloseduardopereira2254', label: 'LinkedIn' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/carlos-martins-3763b9163/', label: 'LinkedIn' },
   { icon: Mail, href: 'mailto:Carloseduardopereira2254@gmail.com', label: 'Email' },
   { icon: Phone, href: 'tel:+5561996383234', label: 'Telefone' },
 ];
@@ -139,7 +139,7 @@ export function Footer() {
                 </li>
                 <li>
                   <motion.a
-                    href="https://www.linkedin.com/in/carloseduardopereira2254"
+                    href="https://www.linkedin.com/in/carlos-martins-3763b9163/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 text-white/40 hover:text-white transition-colors"

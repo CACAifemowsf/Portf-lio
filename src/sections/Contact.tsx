@@ -24,7 +24,7 @@ const contactMethods = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'Carlos Eduardo',
-    href: 'https://www.linkedin.com/in/carloseduardopereira2254',
+    href: 'https://www.linkedin.com/in/carlos-martins-3763b9163/',
     description: 'Conecte-se comigo',
     external: true,
   },
@@ -151,7 +151,7 @@ export function Contact() {
                       WhatsApp
                     </MagneticButton>
                     <MagneticButton 
-                      href="https://www.linkedin.com/in/carloseduardopereira2254"
+                      href="https://www.linkedin.com/in/carlos-martins-3763b9163/"
                       variant="outline"
                       size="md"
                     >
